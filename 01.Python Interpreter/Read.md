@@ -20,15 +20,15 @@ Every Python workflow — scripts, REPL experiments, CLI tools — sits on top o
 
 | File | Purpose |
 |---|---|
-| `notes.md` | Detailed notes on interpreter modes, argument passing, and encoding |
-| `examples.py` | Runnable examples demonstrating `sys.argv` and encoding declarations |
-| `exercises.py` | Practice tasks to reinforce today's concepts |
+| [`notes.md`] (./notes.md)| Detailed notes on interpreter modes, argument passing, and encoding |
+| [`examples.py`] (./examples.py) | Runnable examples demonstrating `sys.argv` and encoding declarations |
+| [`exercises.py`] (./exercises.py) | Practice tasks to reinforce today's concepts |
 
 ## How to use this folder
 
-1. Read `notes.md` first.
-2. Run `examples.py` a few different ways from the terminal (see comments inside for the exact commands).
-3. Attempt `exercises.py` on your own before checking `notes.md` again.
+1. Read [`notes.md`] (./notes.md) first.
+2. Run [`examples.py`] (./examples.py) a few different ways from the terminal (see comments inside for the exact commands).
+3. Attempt [`exercises.py`] (./exercises.py) on your own before checking `notes.md` again.
 
 ## Status
 
